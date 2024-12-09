@@ -1,0 +1,1 @@
+{"uuid":"429c779f-4885-495b-ad2e-db33779ee2f2","name":"org.example.springboot.Lecture5","children":["21cb891e-971f-47e2-a59d-78a0f35398f6"],"befores":[{"name":"init","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1732549033197,"stop":1732549033212}],"afters":[],"start":1732549033147,"stop":1732549066557}

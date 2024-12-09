@@ -1,9 +1,6 @@
 package Lecture4;
 
-import java.util.ArrayList;
-import java.util.Collections;
 import java.util.List;
-import java.util.stream.Collectors;
 
 public class Operations {
     List<Student> students;
